@@ -1,4 +1,4 @@
-# cPPynWAV
+# My Digital Business Card
 
 Quick start:
 
